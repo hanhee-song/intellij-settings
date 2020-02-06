@@ -1,0 +1,1228 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/Sprint-3" />
+        <option value="$USER_HOME$/Projects/lmsfi" />
+        <option value="$USER_HOME$/Projects/Microservice" />
+        <option value="$USER_HOME$/Projects/MicroserviceCore" />
+        <option value="$USER_HOME$/Projects/tis-trunk" />
+        <option value="$USER_HOME$/Projects/deal-1876" />
+        <option value="$USER_HOME$/Projects/prt2" />
+        <option value="$USER_HOME$/Projects/corelibrary-current" />
+        <option value="$USER_HOME$/Projects/ba-15" />
+        <option value="$USER_HOME$/Projects/deal-2" />
+        <option value="$USER_HOME$/Projects/tis-lmsfi" />
+        <option value="$USER_HOME$/Projects/deal-1" />
+        <option value="$USER_HOME$/Projects/config-7" />
+        <option value="$USER_HOME$/Projects/Sprint-21" />
+        <option value="$USER_HOME$/Projects/config-trunk" />
+        <option value="$USER_HOME$/Projects/deal-trunk" />
+        <option value="$USER_HOME$/Projects" />
+        <option value="$USER_HOME$/Projects/microservices" />
+        <option value="$USER_HOME$/Projects/common-aws" />
+        <option value="$USER_HOME$/Projects/config-aws" />
+        <option value="$USER_HOME$/Projects/microservicesCore" />
+        <option value="$USER_HOME$/Projects/haNextCommon/AWSDatabaseConnection" />
+        <option value="$USER_HOME$/Projects/ii-HS-1936-OFAC" />
+        <option value="$USER_HOME$/Projects/trunk" />
+        <option value="$USER_HOME$/Projects/haNextConfigurationTrunk" />
+        <option value="$USER_HOME$/Projects/impact" />
+        <option value="$USER_HOME$/Projects/impact/src/main/webapp" />
+        <option value="$USER_HOME$/Projects/configms" />
+        <option value="$USER_HOME$/Projects/ii" />
+        <option value="$USER_HOME$/Projects/basuite" />
+        <option value="$USER_HOME$/Projects/bams" />
+        <option value="$USER_HOME$/Projects/bbg" />
+        <option value="$USER_HOME$/Projects/common" />
+        <option value="$USER_HOME$/Projects/basuite/common" />
+        <option value="$USER_HOME$/Projects/basuite/core" />
+        <option value="$USER_HOME$/Projects/commonconfigcore" />
+        <option value="$USER_HOME$/Projects/commonconfigcore/configms" />
+        <option value="$USER_HOME$/Projects/ba" />
+        <option value="$USER_HOME$/Projects/Sprint-16" />
+        <option value="$USER_HOME$/Projects/corelibrary" />
+        <option value="$USER_HOME$/Projects/oldms/BAforImpact" />
+        <option value="$USER_HOME$/Projects/oldms/BBGforImpact" />
+        <option value="$USER_HOME$/Projects/fiaruntime" />
+        <option value="$USER_HOME$/Projects/Sprint-15" />
+        <option value="$USER_HOME$/Projects/ii-8" />
+        <option value="$USER_HOME$/Projects/prtms" />
+        <option value="$USER_HOME$/Projects/Post2Q" />
+        <option value="$USER_HOME$/Projects/PostPost2Q" />
+        <option value="$USER_HOME$/Projects/Sprint-14" />
+        <option value="$USER_HOME$/Projects/TG" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Projects/MicroserviceCore" />
+        <option value="$USER_HOME$/Projects/Microservice" />
+        <option value="$USER_HOME$/Projects/lmsfi" />
+        <option value="$USER_HOME$/Projects/Sprint-3" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Projects/Sprint-3" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/enableDevTools.bat">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558038090094" />
+              <option name="buildTimestamp" value="1557230365785" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/SmartTomcat-master/SmartTomcat-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1559253518051" />
+              <option name="buildTimestamp" value="1557230356843" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575412699841" />
+              <option name="buildTimestamp" value="1569299953264" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Liquidity">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564149067976" />
+              <option name="buildTimestamp" value="1559024613754" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Microservice">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580930331233" />
+              <option name="buildTimestamp" value="1569299946913" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/MicroserviceCore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580930331233" />
+              <option name="buildTimestamp" value="1569299946913" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/PDFPOC">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558032364074" />
+              <option name="buildTimestamp" value="1557230392390" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Post2Q">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565647395021" />
+              <option name="buildTimestamp" value="1559024597241" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/PostPost2Q">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565647088499" />
+              <option name="buildTimestamp" value="1559024597241" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/SmartTomcat-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1560976798138" />
+              <option name="buildTimestamp" value="1557230377535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-11">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561657939207" />
+              <option name="buildTimestamp" value="1559024615946" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-12">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563897913317" />
+              <option name="buildTimestamp" value="1559024613754" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-13">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564152979764" />
+              <option name="buildTimestamp" value="1559024613754" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-14">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1565820374007" />
+              <option name="buildTimestamp" value="1559024597241" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-15">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1567608277936" />
+              <option name="buildTimestamp" value="1559024621098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-16">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569263709547" />
+              <option name="buildTimestamp" value="1559024591309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-21">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575925398720" />
+              <option name="buildTimestamp" value="1569299981484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Sprint-3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580930331233" />
+              <option name="buildTimestamp" value="1569299946913" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/TG">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564601656197" />
+              <option name="buildTimestamp" value="1559024635624" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ba">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569264341176" />
+              <option name="buildTimestamp" value="1559024591309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ba-15">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580151276204" />
+              <option name="buildTimestamp" value="1569299974828" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/bams">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569274623542" />
+              <option name="buildTimestamp" value="1559024638003" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/basuite">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569340089481" />
+              <option name="buildTimestamp" value="1559024638003" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/basuite/common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569261343054" />
+              <option name="buildTimestamp" value="1559024591309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/basuite/core">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569261284429" />
+              <option name="buildTimestamp" value="1559024591309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/bbg">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569267701099" />
+              <option name="buildTimestamp" value="1559024638003" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569261877626" />
+              <option name="buildTimestamp" value="1559024591309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/common-aws">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575410586613" />
+              <option name="buildTimestamp" value="1569299956309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/commonconfigcore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569260698398" />
+              <option name="buildTimestamp" value="1559024591309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/commonconfigcore/configms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569260661594" />
+              <option name="buildTimestamp" value="1559024591309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/config-7">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1576620245048" />
+              <option name="buildTimestamp" value="1569299950478" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/config-aws">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575410283493" />
+              <option name="buildTimestamp" value="1569299956309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/config-trunk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575492600944" />
+              <option name="buildTimestamp" value="1569299981484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/config8">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1564583788134" />
+              <option name="buildTimestamp" value="1559024635624" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/configms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569869551259" />
+              <option name="buildTimestamp" value="1569299945408" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/coreLibrary">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558464927300" />
+              <option name="buildTimestamp" value="1557230396389" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/corelibrary">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568926639307" />
+              <option name="buildTimestamp" value="1559024621098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/corelibrary-current">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580227491148" />
+              <option name="buildTimestamp" value="1569299968863" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/deal-1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1578322707461" />
+              <option name="buildTimestamp" value="1569299950600" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/deal-1876">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580311634365" />
+              <option name="buildTimestamp" value="1569299993674" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/deal-2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580141768060" />
+              <option name="buildTimestamp" value="1569299955165" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/deal-trunk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575484840295" />
+              <option name="buildTimestamp" value="1569299981484" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/fia">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561316800885" />
+              <option name="buildTimestamp" value="1557230366829" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/fiaruntime">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568662150377" />
+              <option name="buildTimestamp" value="1559024621098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/gs-multi-module-master/complete">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558377224469" />
+              <option name="buildTimestamp" value="1557230391765" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/haNextCommon/AWSDatabaseConnection">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575408326472" />
+              <option name="buildTimestamp" value="1569299943901" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/haNextConfigurationTrunk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572373141808" />
+              <option name="buildTimestamp" value="1569299984260" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ii">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1569340089922" />
+              <option name="buildTimestamp" value="1559024638003" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ii-8">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566329015518" />
+              <option name="buildTimestamp" value="1559024623539" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ii-HS-1936-OFAC">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575395954676" />
+              <option name="buildTimestamp" value="1569299943901" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/ii-backup">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562695923508" />
+              <option name="buildTimestamp" value="1559024618672" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/impact">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1571347264225" />
+              <option name="buildTimestamp" value="1569299953792" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/impact/corelibrary">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558467403975" />
+              <option name="buildTimestamp" value="1557230396389" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/impact/src/main/webapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1570130597121" />
+              <option name="buildTimestamp" value="1569299945408" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/lmsfi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580930331233" />
+              <option name="buildTimestamp" value="1569299946913" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/microserviceCore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575412676716" />
+              <option name="buildTimestamp" value="1569299990535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/microservices">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575412440361" />
+              <option name="buildTimestamp" value="1569299956309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/microservicesCore">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1575412274819" />
+              <option name="buildTimestamp" value="1569299956309" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/oldms/BAforImpact">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568917399462" />
+              <option name="buildTimestamp" value="1559024621098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/oldms/BBGforImpact">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1568750364845" />
+              <option name="buildTimestamp" value="1559024621098" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/prt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1558465057929" />
+              <option name="buildTimestamp" value="1557230396389" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/prt2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580313041723" />
+              <option name="buildTimestamp" value="1569299993674" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/prtms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1566395327748" />
+              <option name="buildTimestamp" value="1559024623539" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/snth">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1561349249651" />
+              <option name="buildTimestamp" value="1557230366829" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/tis-lmsfi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1578684713905" />
+              <option name="buildTimestamp" value="1569299964884" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/tis-trunk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1580759145322" />
+              <option name="buildTimestamp" value="1569299982580" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/tq">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7479.19" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1562871558816" />
+              <option name="buildTimestamp" value="1559024618672" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/trunk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-192.6817.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1572373493127" />
+              <option name="buildTimestamp" value="1569299984260" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Attribution">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1546541308204" />
+              <option name="buildTimestamp" value="1539686155938" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/CANS/CANSWSJavaSample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547845834610" />
+              <option name="buildTimestamp" value="1543261139778" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/DI">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1541442102727" />
+              <option name="buildTimestamp" value="1539686159595" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/GuidelineSTP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553806897197" />
+              <option name="buildTimestamp" value="1543261090473" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/HPC_THINGS/Qval">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547848483300" />
+              <option name="buildTimestamp" value="1543261108956" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/HPC_THINGS/qvalmodel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548427681446" />
+              <option name="buildTimestamp" value="1543261138618" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/SICancel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553635806620" />
+              <option name="buildTimestamp" value="1543261104705" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542394395745" />
+              <option name="buildTimestamp" value="1539686149226" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-2-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1549485584641" />
+              <option name="buildTimestamp" value="1543261087491" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1546036087396" />
+              <option name="buildTimestamp" value="1539686103810" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-3-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1550780230067" />
+              <option name="buildTimestamp" value="1543261085963" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547662445967" />
+              <option name="buildTimestamp" value="1543261124470" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-4 - Copy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547735478399" />
+              <option name="buildTimestamp" value="1543261124470" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-4-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1552487671042" />
+              <option name="buildTimestamp" value="1543261119041" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-5-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1553715831146" />
+              <option name="buildTimestamp" value="1543261094367" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-6-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555360630832" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-7-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556312043321" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/Sprint-8-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556655372935" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/_Sprint-2-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1549378610083" />
+              <option name="buildTimestamp" value="1543261103435" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/ba-7">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556721076965" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/bb-sprint-3-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1552419015802" />
+              <option name="buildTimestamp" value="1543261134849" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/blpapi_java_3.8.8.2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547672830451" />
+              <option name="buildTimestamp" value="1543261124470" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/common">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557943054081" />
+              <option name="buildTimestamp" value="1557230398978" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/configms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557951453237" />
+              <option name="buildTimestamp" value="1557230363014" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/fia">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557943054441" />
+              <option name="buildTimestamp" value="1557230398978" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/fiaSplit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1551810053396" />
+              <option name="buildTimestamp" value="1543261085963" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/ii-8">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557943051206" />
+              <option name="buildTimestamp" value="1557230398978" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/microservice">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556646115906" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/p-sprint-2-19">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556646223105" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/pla-sprint-1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555356815129" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/plattribution">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.5107.41" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1547847660302" />
+              <option name="buildTimestamp" value="1543261107890" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/prt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557347079462" />
+              <option name="buildTimestamp" value="1553667965004" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/prtPhase2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.7141.44" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557942971685" />
+              <option name="buildTimestamp" value="1557230398978" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1543949387318" />
+              <option name="buildTimestamp" value="1539686139377" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/thymeleafexamples-springmail-3.0-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-191.6183.87" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556034930069" />
+              <option name="buildTimestamp" value="1553667980859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WebApp/webflux-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1546446496918" />
+              <option name="buildTimestamp" value="1539686134105" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/apache-tomcat-7.0.63/lib">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-182.4892.20" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542394490522" />
+              <option name="buildTimestamp" value="1539686149226" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Projects" />
+  </component>
+</application>

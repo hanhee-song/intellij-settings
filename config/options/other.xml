@@ -1,0 +1,84 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="0-0-0-255,,,83-83-83-255,,,29-42-65-255,,,87-87-87-255,,,125-125-125-255,,,145-145-145-255,,,72-77-83-255,,,69-73-79-255,,,63-67-72-255,,,52-58-70-255,,,68-70-79-255,,,79-79-68-255,,,51-57-69-255,,,73-73-62-255,,,48-48-48-255,,,123-123-123-255,,,74-74-74-255,,,45-45-45-255,,,121-0-6-255,,,71-68-52-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.46308726" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.88645416" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="Hanhee's One Dark Pro 1.2" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="true" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="InstalledPluginsSearchHistory" value="local history&#10;localj&#10;lj&#10;prox&#10;pro" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="implementation&#10;navigate&#10;interface&#10;debug&#10;next template var" />
+    <property name="MarketplacePluginsSearchHistory" value="proxy" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="lombok&#10;maven&#10;settings&#10;settings sync&#10;java decompiler" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SearchEveryWhereHistory" value=".hbm.xml&#10;attributionmarket&#10;toolbox&#10;validateApprover&#10;needMDApprover" />
+    <property name="SettingsSearchHistory" value="local history&#10;j&#10;proxy&#10;pr&#10;plug" />
+    <property name="TrendingPluginsSearchHistory" value="maven&#10;tomcat&#10;hotswap&#10;jetty&#10;sortBy:downloads" />
+    <property name="UpdatePluginsSearchHistory" value="spring" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="231" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="108" />
+    <property name="export.settings.path" value="D:\WebApp\settings\all_settings" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/tis-trunk/haNextTradeInstruction.iml&#10;C:/Users/x217333/Projects/tis-trunk&#10;C:/Users/x217333/Projects/corelibrary-1.0.0/corelibrary-1.0.0.iml&#10;C:/Users/x217333/Projects/corelibrary-current/corelibrary.iml&#10;C:/Users/x217333/Projects/corelibrary-1.0.0/corelibrary.iml&#10;C:/Users/x217333/Projects/ba-15/haNextBondAnalytics.iml&#10;C:/Users/x217333/Projects/ba-15&#10;C:/Users/x217333/Projects/prt2&#10;C:/Users/x217333/Projects/deal-2/haNextDealInventory.iml&#10;C:/Users/x217333/Projects/lmsfi/build.xml&#10;C:/Users/x217333/Projects/lmsfi/lib&#10;C:/Users/x217333/Projects/lmsfi&#10;C:/Users/x217333/Projects/prt2/lib&#10;C:/Users/x217333/Projects/tis-lmsfi/haNextTradeInstruction.iml&#10;C:/Users/x217333/Projects/tis-lmsfi&#10;C:/Users/x217333/Projects/deal-1/haNextDealInventory.iml&#10;C:/Users/x217333/Projects/deal-trunk/haNextDealInventory.iml&#10;C:/Users/x217333/Projects/config-7/haNextConfiguration.iml&#10;C:/Users/x217333/Projects/config-7&#10;C:/Users/x217333/Projects/common-6/haNextCommon.iml&#10;C:/Users/x217333/Projects/Sprint-21&#10;C:/Users/x217333/Projects/config-trunk/haNextConfiguration.iml&#10;C:/Users/x217333/Projects/config-trunk&#10;C:/Users/x217333/Projects/deal-HS-1936-OFAC/haNextDealInventory.iml&#10;C:/Users/x217333/Projects/deal-trunk&#10;C:/Program Files/Java/jdk1.8.0_211&#10;C:/Users/x217333/Projects/bbg-3/bloombergData.iml&#10;C:/Users/x217333/Projects/ii-HS-1936-OFAC/haNextDealInventory.iml&#10;C:/Users/x217333/Projects/ii-HS-1936-OFAC&#10;C:/Program Files/Java/jdk-11.0.3" />
+    <property name="file.gist.reindex.count" value="274448" />
+    <property name="file.history.selection.diff.splitter.proportion" value="0.6106195" />
+    <property name="fileTypeChangedCounter" value="75" />
+    <property name="find.popup.splitter" value="0.62813103" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2019.1-3" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="$USER_HOME$/Projects/tis-trunk/haNextTradeInstruction.iml" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/Projects/_tools/gradle-5.4.1" />
+    <property name="lastTip" value="163" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1580758511341" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="selected.color.option.type" value="TEXT_SEARCH_RESULT_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.anh.prudential.com:9443/svn/Hedging/Java" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.anh.prudential.com:9443/svn/Hedging/Java" />
+      </list>
+    </option>
+  </component>
+</application>

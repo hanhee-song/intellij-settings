@@ -1,0 +1,25 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="current">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 7.0.63" />
+        <option name="path" value="C:\Users\x217333\Projects\_tools\apache-tomcat-7.0.63" />
+        <option name="version" value="7.0.63.0" />
+      </TomcatInfo>
+    </option>
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 7.0.63" />
+          <option name="path" value="C:\Users\x217333\Projects\_tools\apache-tomcat-7.0.63" />
+          <option name="version" value="7.0.63.0" />
+        </TomcatInfo>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 6.0.43" />
+          <option name="path" value="D:\apache-tomcat-6.0.43" />
+          <option name="version" value="6.0.43.0" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>
